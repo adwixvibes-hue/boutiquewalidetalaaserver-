@@ -10,5 +10,11 @@
     "password": "000",
     "role": "staff",
     "name": "سامي (بائع)"
+  },
+  {
+    "name": "أحمد",
+    "username": "ahmed",
+    "password": "1111",
+    "role": "staff"
   }
 ]
