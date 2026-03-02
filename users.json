@@ -1,9 +1,9 @@
 [
   {
+    "name": "وليد (المدير)",
     "username": "walid",
-    "password": "123",
-    "role": "admin",
-    "name": "وليد (المدير)"
+    "password": "12344",
+    "role": "admin"
   },
   {
     "username": "sami",
