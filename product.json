@@ -1,23 +1,28 @@
 [
   {
     "id": 1,
-    "name": "حذاء رياضي",
-    "description": "راحة وأناقة في كل خطوة.",
+    "name": "Ø­Ø°Ø§Ø¡ Ø±ÙØ§Ø¶Ù",
+    "description": "Ø±Ø§Ø­Ø© ÙØ£ÙØ§ÙØ© ÙÙ ÙÙ Ø®Ø·ÙØ©.",
     "price": 5000,
-    "image": "https://via.placeholder.com/200?text=حذاء+1"
+    "image": "https://via.placeholder.com/200?text=Ø­Ø°Ø§Ø¡+1"
   },
   {
     "id": 2,
-    "name": "حذاء رسمي",
-    "description": "مثالي للمناسبات الخاصة والعمل.",
+    "name": "Ø­Ø°Ø§Ø¡ Ø±Ø³ÙÙ",
+    "description": "ÙØ«Ø§ÙÙ ÙÙÙÙØ§Ø³Ø¨Ø§Øª Ø§ÙØ®Ø§ØµØ© ÙØ§ÙØ¹ÙÙ.",
     "price": 7000,
-    "image": "https://via.placeholder.com/200?text=حذاء+2"
+    "image": "https://via.placeholder.com/200?text=Ø­Ø°Ø§Ø¡+2"
   },
   {
     "id": 3,
-    "name": "حذاء كاجوال",
-    "description": "تصميم عصري وألوان جذابة.",
+    "name": "Ø­Ø°Ø§Ø¡ ÙØ§Ø¬ÙØ§Ù",
+    "description": "ØªØµÙÙÙ Ø¹ØµØ±Ù ÙØ£ÙÙØ§Ù Ø¬Ø°Ø§Ø¨Ø©.",
     "price": 6000,
-    "image": "https://via.placeholder.com/200?text=حذاء+3"
+    "image": "https://via.placeholder.com/200?text=Ø­Ø°Ø§Ø¡+3"
+  },
+  {
+    "name": "dropmeuble",
+    "price": "22",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png"
   }
 ]
