@@ -1,23 +1,9 @@
 [
   {
-    "id": 1,
-    "name": "حذاء رياضي",
-    "description": "راحة وأناقة.",
-    "price": 5000,
-    "image": "https://via.placeholder.com/200?text=حذاء+1"
-  },
-  {
-    "id": 2,
-    "name": "حذاء رسمي",
-    "description": "مثالي للعمل.",
-    "price": 7000,
-    "image": "https://via.placeholder.com/200?text=حذاء+2"
-  },
-  {
-    "id": 3,
-    "name": "حذاء كاجوال",
-    "description": "تصميم عصري.",
-    "price": 6000,
-    "image": "https://via.placeholder.com/200?text=حذاء+3"
+    "id": 1772466030834,
+    "name": "رياضيات",
+    "price": "20",
+    "image": "",
+    "desc": "لا وصف"
   }
 ]
